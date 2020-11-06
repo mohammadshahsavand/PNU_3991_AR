@@ -3,7 +3,17 @@
 - [Resume](https://mohammadshahsavand.github.io/mohammadshasavand/) 
 - [SOP](https://mohammadshahsavand.github.io/sop/)
 - [GitHub](https://github.com/mohammadshahsavand)
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+   
+<body>
 <table style="width:100%;margin:0 auto">
   <tr>
     <th >16-18</th>
@@ -65,3 +75,6 @@
 
 <img src="jsw-header-illustrations---v3.png" alt="">
 
+</body>
+
+</html>
