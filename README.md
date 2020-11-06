@@ -4,7 +4,7 @@
 - [SOP](https://mohammadshahsavand.github.io/sop/)
 - [GitHub](https://github.com/mohammadshahsavand)
 
-<table style="width:100%">
+<table style="width:100%;margin:0 auto">
   <tr>
     <th >16-18</th>
     <th >14-16</th>
