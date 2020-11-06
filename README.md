@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <th ></th>
-    <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines">نظریه زبان ها و ماشین ها</a></th>
+    <th ></th>
     <th ></th>
     <th></th>
     <th></th>
@@ -32,7 +32,7 @@
     <th>یک شنبه</th>
   </tr>
    <tr>
-     <th ></th>
+     <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines">روش پژوهش و ارائه</a></th>
      <th ></th>
      <th></th>
      <th></th>
