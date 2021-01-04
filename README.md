@@ -11,6 +11,10 @@
 
 [1322010_02 روش پژوهش و ارائه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/64_%D8%B1%D8%B6%D9%88%D8%A7%D9%86%D9%87%20%D9%86%D9%88%D8%B1%D8%B2%D8%A7%D8%A6%D9%8A)
 -----------------
+## فعالیت گروهی
+
+[معرفی دروس مشابه](http://smbidoki.ir/crsdetail.php?crsid=41)
+------------------
 
 <table style="width:100%;margin:0 auto">
   <tr>
