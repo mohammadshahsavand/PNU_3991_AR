@@ -30,10 +30,9 @@
  1. [  RPM-07  مريم بهار لو](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/07_%D9%85%D8%B1%D9%8A%D9%85%20%D8%A8%D9%87%D8%A7%D8%B1%D9%84%D9%88%D9%82%D8%B1%D9%87%20%D8%A8%D9%84%D8%B7%D8%A7%D9%82%D9%8A)
  ----------------
 ## فعالیت گروهی
+[معرفی دروس مشابه 1](http://smbidoki.ir/crsdetail.php?crsid=41)
 
-[معرفی دروس مشابه]
-[1](http://smbidoki.ir/crsdetail.php?crsid=41)
-[2](https://libguides.gatech.edu/c.php?g=944744&p=6810453)
+[معرفی دروس مشابه 2](https://libguides.gatech.edu/c.php?g=944744&p=6810453)
 ------------------
 ## مقطع کارشناسی
 
