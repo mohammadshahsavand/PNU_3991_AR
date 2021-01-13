@@ -31,7 +31,9 @@
  ----------------
 ## فعالیت گروهی
 
-[معرفی دروس مشابه](http://smbidoki.ir/crsdetail.php?crsid=41)
+[1معرفی دروس مشابه](http://smbidoki.ir/crsdetail.php?crsid=41)
+
+ [2معرفی دروس مشابه](https://libguides.gatech.edu/c.php?g=944744&p=6810453)
 ------------------
 ## مقطع کارشناسی
 
